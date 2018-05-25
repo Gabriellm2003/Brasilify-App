@@ -1,2 +1,7 @@
-# Brasilify-App
-Projeto desenvolvido para disciplina de Banco de Dados Avançados - UFMG
+# Brasilify
+Aplicação desenvolvida para o trabalho prático da disciplina Banco de Dados Avançados.
+Pacotes necessários:
+sudo pip install requests
+sudo pip install spotipy
+sudo apt install sqlite3
+
