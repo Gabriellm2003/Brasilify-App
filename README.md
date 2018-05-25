@@ -6,6 +6,7 @@ Link da Aplicação: http://homepages.dcc.ufmg.br/~liviaab/tpbda/
 
 
 Pacotes necessários:
+
 sudo pip install requests
 
 sudo pip install spotipy
