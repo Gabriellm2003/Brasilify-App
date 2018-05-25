@@ -1,0 +1,32 @@
+table{
+	background-color:  #C3F0B7;
+	margin-top: 5px;
+	
+}
+
+tr{
+	vertical-align: top;
+}
+
+table tr:first-child td {
+	margin-top: 50px;
+}
+
+td{
+	width: 25%;
+
+}
+img{
+	min-width: 200px;	
+	padding: 3px;
+}
+.caption{
+	background-color: #9AE287 ;
+	padding: 3px;	
+	border-radius: 5px;	
+	margin: 3px;
+	
+}
+.table-like__cell{
+	padding: 3px;
+}

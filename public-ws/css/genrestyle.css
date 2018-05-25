@@ -1,0 +1,12 @@
+
+/* Pagina de genero */
+.artist_table td{
+	margin: 3% 3% 3% 3%;
+	padding: 3% 3% 3% 3%;
+}
+
+.artist_table {
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 5%;
+}
